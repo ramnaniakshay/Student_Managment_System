@@ -2,7 +2,7 @@
  This is app which has basic CRUD operations using php
 -How to run this Project
 
-1.Turn on mysql , apache server
+1.Turn on mysql , apache server 
 2.Go to php/myadmin, Create database 'ia'
 3.Go to 'import' very next to export
 4.Now click on choose file
